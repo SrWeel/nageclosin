@@ -1,1 +1,0 @@
- F:\\Carpeta\ Compartida\\jonnathan\ archivos\\empresa\\nageclosin\\.dart_tool\\flutter_build\\185995661d5fdfc20e7810eb7a7e192e\\native_assets.json: 
