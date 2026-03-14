@@ -9,6 +9,17 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
+  // @override
+  // Widget build(BuildContext context) {
+  //   return MaterialApp(
+  //     title: 'Nageclosin',
+  //     theme: ThemeData(
+  //       colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+  //     ),
+  //     home: const LoginPage(), // Mostramos la pantalla de login
+  //     debugShowCheckedModeBanner: false,
+  //   );
+  // }
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
